@@ -1,0 +1,247 @@
+.Cadastro {
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+    background: white;
+}
+
+.Rectangle1 {
+    width: 1440px;
+    height: 130px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: linear-gradient(90deg, #D9D2AC 0%, white 25%);
+    border-radius: 50px;
+}
+
+.Rectangle24_1, .Rectangle24_2 {
+    width: 500px;
+    height: 75px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Rectangle24_1 {
+    left: 470px;
+    top: 420px;
+}
+
+.Rectangle24_2 {
+    left: 469px;
+    top: 311px;
+}
+
+.Email_1, .Email_2 {
+    width: 460px;
+    height: 40px;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.30);
+    font-size: 35px;
+    font-family: HoloLens MDL2 Assets;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.Email_1 {
+    left: 490px;
+    top: 438px;
+}
+
+.Email_2 {
+    left: 489px;
+    top: 329px;
+}
+
+.Rectangle25_1, .Rectangle25_2 {
+    width: 500px;
+    height: 75px;
+    position: absolute;
+    background: #D9D9D9;
+}
+
+.Rectangle25_1 {
+    left: 470px;
+    top: 529px;
+}
+
+.Rectangle25_2 {
+    left: 470px;
+    top: 637px;
+}
+
+.Senha_1, .Senha_2 {
+    width: 460px;
+    height: 40px;
+    position: absolute;
+    color: rgba(0, 0, 0, 0.30);
+    font-size: 35px;
+    font-family: HoloLens MDL2 Assets;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.Senha_1 {
+    left: 490px;
+    top: 547px;
+}
+
+.Senha_2 {
+    left: 490px;
+    top: 655px;
+}
+
+.Rectangle8 {
+    width: 200px;
+    height: 75px;
+    left: 619px;
+    top: 745px;
+    position: absolute;
+    background: #9EE28D;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    border: 5px black solid;
+}
+
+.CadastrarSe {
+    width: 185px;
+    height: 31px;
+    left: 649px;
+    top: 764px;
+    position: absolute;
+    color: black;
+    font-size: 24px;
+    font-family: HoloLens MDL2 Assets;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 35px;
+    word-wrap: break-word;
+}
+
+.CadastroTitulo {
+    width: 198px;
+    height: 60px;
+    left: 485px;
+    top: 255px;
+    position: absolute;
+    color: black;
+    font-size: 35px;
+    font-family: HoloLens MDL2 Assets;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+.Line2 {
+    width: 1340px;
+    height: 0px;
+    left: 56.50px;
+    top: 129px;
+    position: absolute;
+    border: 1px black solid;
+}
+
+.Rectangle3_1 {
+    width: 160px;
+    height: 80px;
+    position: absolute;
+    background: linear-gradient(90deg, #D9D2AC 0%, white 75%);
+    border-radius: 50px;
+    border: 5px #D9D2AC solid;
+}
+
+.Rectangle3_1 {
+    left: 430px;
+    top: 25px;
+}
+
+.Rectangle3_2 {width: 180px; height: 80px; left: 640px; top: 25px; position: absolute; background: linear-gradient(90deg, #D9D2AC 0%, white 75%); border-radius: 50px; border: 5px #D9D2AC solid; z-index: 0;
+}
+
+.Rectangle4 {
+    width: 180px;
+    height: 80px;
+    left: 870px;
+    top: 25px;
+    position: absolute;
+    background: linear-gradient(90deg, rgba(2.13, 73.04, 255, 0.67) 0%, rgba(221, 230.53, 255, 0.67) 100%);
+    border-radius: 50px;
+    border: 5px black solid;
+}
+
+.Rectangle5 {
+    width: 260px;
+    height: 80px;
+    left: 1100px;
+    top: 25px;
+    position: absolute;
+    background: linear-gradient(90deg, #D9D2AC 0%, white 75%);
+    border-radius: 50px;
+    border: 5px #D9D2AC solid;
+}
+
+.Menu, .MeusPedidos, .MinhaConta, .CarrinhoDeCompras {
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: HoloLens MDL2 Assets;
+    font-weight: 400;
+    text-transform: capitalize;
+    word-wrap: break-word;
+}
+
+.Menu {
+    left: 435px;
+    top: 52px;
+}
+
+.MeusPedidos {
+    left: 650px;
+    top: 46px;
+}
+
+.MinhaConta {
+    left: 895px;
+    top: 45px;
+}
+
+.CarrinhoDeCompras {
+    left: 1128px;
+    top: 45px;
+}
+
+.Ellipse {
+    width: 80px;
+    height: 80px;
+    left: 20px;
+    top: 25px;
+    position: absolute;
+    background: linear-gradient(180deg, #FFE100 0%, #FFFBDB 82%, #4277FF 100%);
+    border-radius: 9999px;
+}
+
+.HamburgueriaDoKleber {
+    width: 210px;
+    height: 36px;
+    left: 100px;
+    top: 50px;
+    position: absolute;
+    color: black;
+    font-size: 24px;
+    font-family: ISOCTEUR;
+    font-weight: 400;
+    text-transform: capitalize;
+    word-wrap: break-word;
+}
+
+.Image7{width: 71px; height: 71px; left: 25px; top: 30px; position: absolute; z-index: 2;}
+
+.Image1{width: 60px; height: 60px; left: 520px; top: 38px; position: absolute; z-index: 2;}
+
+.Image5{width: 60px; height: 60px; left: 1260px; top: 38px; position: absolute; z-index: 2;}
+
+.Image2{width: 60px; height: 60px; left: 980px; top: 38px; position: absolute; z-index: 2;}
+
+.Image3{width: 60px; height: 60px; left: 750px; top: 35px; position: absolute;}
