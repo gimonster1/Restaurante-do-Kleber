@@ -1,0 +1,128 @@
+.menu{
+    width: 1440px; 
+    height: 1024px; 
+    position: relative; 
+    background: white;
+}
+
+.rec22{
+    width: 1300px;
+    height: 250px; 
+    left: 50px; top: 240px; 
+    position: absolute; 
+    background: linear-gradient(90deg, #D9D2AC 0%, white 75%); 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); 
+    border-radius: 55px; 
+    border: 5px black solid;
+}
+
+.rec21{width: 347px; height: 250px; left: 50px; top: 240px; position: absolute; background: linear-gradient(90deg, rgba(2.13, 73.04, 255, 0.67) 0%, rgba(221, 230.53, 255, 0.67) 100%); border-radius: 55px; border: 5px black solid;}
+
+.r2300{width: 362px; height: 74px; left: 937px; top: 265px; position: absolute; text-align: right; color: black; font-size: 64px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.xsalada{width: 537px; height: 74px; left: 420px; top: 265px; position: absolute; color: black; font-size: 64px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.ingredsalad{width: 465px; height: 99px; left: 420px; top: 334px; position: absolute; color: black; font-size: 20px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.rec23{width: 258px; height: 63px; left: 1019px; top: 362px; position: absolute; background: #9EE28D; border-radius: 50px; border: 5px black solid;}
+
+.rec12{width: 12px; height: 30px; left: 1060px; top: 379px; position: absolute; background: white;
+}
+
+.rec11{width: 45px; height: 7px; left: 1043px; top: 390px; position: absolute; background: white;}
+
+.add1{width: 203px; height: 26px; left: 1123px; top: 371px; position: absolute; color: black; font-size: 24px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.rec28{width: 1300px; height: 250px; left: 50px; top: 505px; position: absolute; background: linear-gradient(90deg, #D9D2AC 0%, white 75%); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 55px; border: 5px black solid;}
+
+.rec29{width: 347px; height: 250px; left: 50px; top: 505px; position: absolute; background: linear-gradient(90deg, rgba(2.13, 73.04, 255, 0.67) 0%, rgba(221, 230.53, 255, 0.67) 100%); border-radius: 55px; border: 5px black solid;}
+
+.r2800{width: 362px; height: 74px; left: 937px; top: 530px; position: absolute; text-align: right; color: black; font-size: 64px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.xsaladaduplo{width: 537px; height: 74px; left: 420px; top: 530px; position: absolute; color: black; font-size: 64px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.ingredsaladduplo{width: 465px; height: 99px; left: 420px; top: 599px; position: absolute; color: black; font-size: 20px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.rec30{width: 258px; height: 63px; left: 1019px; top: 627px; position: absolute; background: #9EE28D; border-radius: 50px; border: 5px black solid;}
+
+.rec31{width: 12px; height: 30px; left: 1060px; top: 644px; position: absolute; background: white;}
+
+.rec32{width: 45px; height: 7px; left: 1043px; top: 655px; position: absolute; background: white;}
+
+.add4{width: 203px; height: 26px; left: 1123px; top: 636px; position: absolute; color: black; font-size: 24px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.rec33{width: 1300px; height: 250px; left: 50px; top: 770px; position: absolute; background: linear-gradient(90deg, #D9D2AC 0%, white 75%); box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 55px; border: 5px black solid;z-index: 0;}
+
+.rec34{width: 347px; height: 250px; left: 50px; top: 770px; position: absolute; background: linear-gradient(90deg, rgba(2.13, 73.04, 255, 0.67) 0%, rgba(221, 230.53, 255, 0.67) 100%); border-radius: 55px; border: 5px black solid;z-index: 0;}
+
+.r3400{width: 362px; height: 74px; left: 937px; top: 795px; position: absolute; text-align: right; color: black; font-size: 64px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.xsaladadupp{width: 537px; height: 74px; left: 420px; top: 795px; position: absolute; color: black; font-size: 64px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.ingredtudo{width: 465px; height: 99px; left: 420px; top: 864px; position: absolute; color: black; font-size: 20px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.rec35{width: 258px; height: 63px; left: 1019px; top: 892px; position: absolute; background: #9EE28D; border-radius: 50px; border: 5px black solid;}
+
+.rec36{width: 12px; height: 30px; left: 1060px; top: 909px; position: absolute; background: white;}
+
+.rec37{width: 45px; height: 7px; left: 1043px; top: 920px; position: absolute; background: white;}
+
+.adicionar6{width: 203px; height: 26px; left: 1123px; top: 901px; position: absolute; color: black; font-size: 24px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; line-height: 35px; word-wrap: break-word;}
+
+.rec38{width: 1440px; height: 130px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #D9D2AC 0%, white 25%); border-radius: 50px;}
+
+.ellipse{width: 80px; height: 80px; left: 20px; top: 25px; position: absolute; background: linear-gradient(180deg, #FFE100 0%, #FFFBDB 82%, #4277FF 100%); border-radius: 9999px;}
+
+.image3{width: 71px; height: 71px; left: 25px; top: 29px; position: absolute;}
+
+.hamburgueriadokleber{width: 210px; height: 36px; left: 100px; top: 50px; position: absolute; color: black; font-size: 24px; font-family: ISOCTEUR; font-weight: 400; text-transform: capitalize; word-wrap: break-word;}
+
+.rectangle3{width: 160px; height: 80px; left: 430px; top: 25px; position: absolute; background: linear-gradient(90deg, rgba(2.13, 73.04, 255, 0.67) 0%, rgba(221, 230.53, 255, 0.67) 100%); border-radius: 50px; border: 5px black solid;}
+
+.menuuu{width: 60px; height: 13px; left: 458px; top: 52px; position: absolute; color: black; font-size: 20px; font-family: HoloLens MDL2 Assets; font-weight: 400; word-wrap: break-word;}
+
+.image2{width: 60px; height: 60px; left: 512px; top: 35px; position: absolute;}
+
+.rectangle1{width: 180px; height: 80px; left: 640px; top: 25px; position: absolute; background: linear-gradient(90deg, #D9D2AC 0%, white 75%); border-radius: 50px; border: 5px #D9D2AC solid; z-index: 0;}
+
+.meuspedidos{width: 100px; height: 30px; left: 650px; top: 45px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; word-wrap: break-word;}
+
+.image1{width: 60px; height: 60px; left: 750px; top: 35px; position: absolute;}
+
+.rectangle4{width: 180px; height: 80px; left: 870px; top: 25px; position: absolute; background: linear-gradient(90deg, #D9D2AC 0%, white 75%); border-radius: 50px; border: 5px #D9D2AC solid; z-index: 1;}
+
+.minhaconta{width: 90px; height: 30px; left: 895px; top: 45px; position: absolute; color: black; font-size: 20px; font-family: HoloLens MDL2 Assets; font-weight: 400; word-wrap: break-word; z-index: 2;}
+
+.image6{width: 60px; height: 60px; left: 980px; top: 38px; position: absolute; z-index: 2;}
+
+.rectangle5{width: 260px; height: 80px; left: 1100px; top: 25px; position: absolute; background: linear-gradient(90deg, #D9D2AC 0%, white 75%); border-radius: 50px; border: 5px #D9D2AC solid;}
+
+.image5{width: 60px; height: 60px; left: 1270px; top: 35px; position: absolute;}
+
+.carrinhodecompras{width: 142px; height: 30px; left: 1120px; top: 45px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: HoloLens MDL2 Assets; font-weight: 400; text-transform: capitalize; word-wrap: break-word;}
+
+.line1{width: 1340px; height: 0px; left: 50px; top: 130px; position: absolute; border: 1px black solid;}
+
+.imgsalad{width: 300px; height: 300px; left: 75px; top: 220px; position: absolute;z-index: 1;}
+
+.imgduplo{width: 250px; height: 250px; left: 85px; top: 515px; position: absolute;z-index:1 ;}
+
+.imgtudo{width: 300px; height: 300px; left: 75px; top: 750px; position: absolute;z-index: 1;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
